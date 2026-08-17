@@ -1,6 +1,6 @@
 # Nuzaif Naveed
 
-Data Scientist and BI Developer based in Florida. I am finishing my MS in Data Analytics at Canisius University, and most of my work sits somewhere between machine learning, ETL pipelines, and the dashboards that make all of it usable for people who do not want to read a model output.
+Data Scientist and BI Developer based in Florida. I have finished my MS in Data Analytics at Canisius University, and most of my work sits somewhere between machine learning, ETL pipelines, and the dashboards that make all of it usable for people who do not want to read a model output.
 
 My background is a bit of a mix, and I think that is my advantage. I spent years in financial planning and analytics before moving fully into data, so I am used to the whole path: pulling data out of messy systems, building the pipeline to clean it, running the models, and then packaging the result into something a portfolio manager or an executive can actually act on. Recently that has meant credit risk modeling at M&T Bank and building automated data flows at Coastal Wealth.
 
@@ -62,6 +62,6 @@ MS in Data Analytics, Canisius University. GPA 4.0, Dean's List 2026.
 
 Tableau Public: https://public.tableau.com/app/profile/nuzaif.naveed
 
-LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/
+LinkedIn: https://www.linkedin.com/in/nuzaif/
 
 Email: nuzaifn@gmail.com
